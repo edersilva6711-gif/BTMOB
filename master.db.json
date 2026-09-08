@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "master-evl",
+      "email": "EVLFDEV@gmail.com",
+      "password": "Master@EVLF2025",
+      "name": "EVLF DEV",
+      "role": "master",
+      "status": "active",
+      "startDate": "2025-01-01",
+      "endDate": "2027-12-31",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "resources": ["all"]
+    },
+    {
+      "id": "master-001",
+      "email": "edersilva6711@gmail.com",
+      "password": "Trabalho@171",
+      "name": "Eder Silva",
+      "role": "master",
+      "status": "active",
+      "startDate": "2026-09-08",
+      "endDate": "2026-09-16",
+      "createdAt": "2026-09-08T13:00:00.000Z",
+      "resources": ["all"]
+    },
+    {
+      "id": "master-000",
+      "email": "luvistorcano6711@gmail.com",
+      "password": "Progresso@297311",
+      "name": "Master Bypass",
+      "role": "master",
+      "status": "active",
+      "startDate": "2026-09-08",
+      "endDate": "2027-09-08",
+      "createdAt": "2026-09-08T13:00:00.000Z",
+      "resources": ["all"]
+    }
+  ],
+  "servers": [],
+  "config": {
+    "remoteIp": "163.245.204.10",
+    "onlineUrl": "https://btmob-b3mg.onrender.com",
+    "version": "1.0-master-online"
+  }
+}
